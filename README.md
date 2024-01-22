@@ -21,4 +21,4 @@
 -CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
 
 **4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?**
-
+![Diagram Tanpa Judul drawio (2)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/ee4e4b4c-883f-41c7-80ac-672be921f2db)
