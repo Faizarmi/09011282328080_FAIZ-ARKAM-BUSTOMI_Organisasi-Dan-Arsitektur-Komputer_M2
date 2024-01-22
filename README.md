@@ -29,17 +29,17 @@
 
 **Operasi (2)**
 
-![Diagram Tanpa Judul drawio (5)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/f1273554-c55b-4fbe-bf33-e17d276a59c3) 
+![Diagram Tanpa Judul drawio (4)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/6092b4e5-2a9e-4a99-80f5-d23122cc9214) 
 
 **Operasi (3)**
 
-![Diagram Tanpa Judul drawio (3)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/3c9a32a5-2447-4b17-8a6c-2ec6abf1a88f) 
+![Diagram Tanpa Judul drawio (5)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/f1273554-c55b-4fbe-bf33-e17d276a59c3)
 
 **Operasi (4)**
 
-![Diagram Tanpa Judul drawio (4)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/6092b4e5-2a9e-4a99-80f5-d23122cc9214) 
+![Diagram Tanpa Judul drawio (3)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/3c9a32a5-2447-4b17-8a6c-2ec6abf1a88f) 
 
-![Diagram Tanpa Judul drawio (5)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/f1273554-c55b-4fbe-bf33-e17d276a59c3)
+
 -Data Movement Apparatus : Antarmuka untuk pemindahan data.
 -Control Mechanism : Pengendali Utama Fungsi Komputer.
 -Data Storage Facility : Unit menyimpan data.
