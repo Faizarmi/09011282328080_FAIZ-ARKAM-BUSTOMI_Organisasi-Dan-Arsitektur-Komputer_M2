@@ -14,6 +14,11 @@
 -System Interconnection : Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
 
 **3. Gambarkan Struktur Central Processing Unit dan jelaskan masing-masing fungsi?**
+![Diagram Tanpa Judul drawio (1)](https://github.com/Faizarmi/09011282328080_FAIZ-ARKAM-BUSTOMI_Organisasi-Dan-Arsitektur-Komputer_M2/assets/146688105/d314e43a-3852-4acf-9a05-f4c10e36e012)
+-Control Unit : Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
+-Arithmetic and Logic Unit (ALU) : Membentuk fungsi-fungsi pengolahan data komputer.
+-Register : Sebagai Penyimpanan internal bagi CPU
+-CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
 
 **4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?**
 
